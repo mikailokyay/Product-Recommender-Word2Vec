@@ -7,4 +7,4 @@ r = requests.post(url, json={
     "product_count": 15
 })
 
-print(r.json())
+print(r.json)

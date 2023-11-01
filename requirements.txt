@@ -1,6 +1,7 @@
 requests
-Flask
-gunicorn
+uvicorn
+fastapi
+pydantic
 gensim
 pandas
 tqdm
